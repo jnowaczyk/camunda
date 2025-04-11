@@ -7,7 +7,7 @@
     - [Instalacja modelera Camunda8](Content/Camunda_modeller_install.md)
 - [Uruchomienie camunda](#camunda---uruchomienie)
     - [Uruchomienie - Camunda8 run](Content/Camunda_run.md)
-    - [Uruchomienie - docker](Content/Camunda_docker_run.md)
+    - [Uruchomienie - docker](Content/camunda_docker_run.md)
 - [Adresy usług]()
     - [Camunda8 run urls](Content/Camunda_run_urls.md)
     - [Camunda8 docker urls](Content/Camunda_docker_urls.md)
@@ -15,7 +15,16 @@
 - [Automatyzacja](#camunda---cli-helper)
     - [Szybkie uruchamianie Camunda z CLI - powershell](Content/Camunda_docker_powershell_done_quick.md)
 
-## Camunda - 
+## Camunda - instalacja
+
+Dwa najpopularniejsze sposoby hostowania Camunda na systemie Windows:
+* usługi jako procesy (JDK) : wykorzystanie aplikacji c8run
+* usługi dostarczane via docker (docker compose)
+
+Sposoby instalacji, uruchomienia opisane w odpowiednich rozdziałach: 
+- [Instalacja pod Camunda8 Run](Content/Camunda_install_camunda_run.md)
+- [Instalacja pod kątem Docker Compose](Content/Camunda_install_docker.md)
+
 
 ## Camunda - uruchomienie
 

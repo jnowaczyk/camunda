@@ -60,4 +60,4 @@ Wykonuje procesy – analizuje modele i zarządza przepływem.
 | Interfejs webowy       | Cockpit, Tasklist       | Operate, Tasklist, Optimize |
 | Komunikacja            | REST API                | gRPC                        |
 
-[Idź do spisu treści](Camunda_Millenium.md)
+[Idź do spisu treści](../Camunda_ReadMe.md)

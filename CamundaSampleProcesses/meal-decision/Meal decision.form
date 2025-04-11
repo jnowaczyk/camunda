@@ -1,0 +1,43 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.7.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "d45327c"
+  },
+  "schemaVersion": 18,
+  "id": "meal-decision-1afcf2n",
+  "components": [
+    {
+      "text": "Co na obiad?",
+      "type": "text",
+      "layout": {
+        "row": "Row_0d1id70",
+        "columns": null
+      },
+      "id": "Field_0zvyhas"
+    },
+    {
+      "label": "Wybór obiadu",
+      "values": [
+        {
+          "label": "Kurczak",
+          "value": "Chicken"
+        },
+        {
+          "label": "Sałatka",
+          "value": "Salad"
+        }
+      ],
+      "type": "radio",
+      "layout": {
+        "row": "Row_07xthzd",
+        "columns": null
+      },
+      "id": "Field_03fwz34",
+      "key": "meal",
+      "defaultValue": "value"
+    }
+  ],
+  "type": "default"
+}

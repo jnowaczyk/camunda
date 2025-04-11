@@ -1,0 +1,6 @@
+@Camunda.Api_HostAddress = http://localhost:5238
+
+GET {{Camunda.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

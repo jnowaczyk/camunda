@@ -15,6 +15,7 @@
 - [Automatyzacja](#camunda---cli-helper)
     - [Szybkie uruchamianie Camunda z CLI - powershell](Content/Camunda_docker_powershell_done_quick.md)
 
+- [Troubleshooting](Content/Camunda_troubleshooting.md)
 ## Camunda - instalacja
 
 Dwa najpopularniejsze sposoby hostowania Camunda na systemie Windows:

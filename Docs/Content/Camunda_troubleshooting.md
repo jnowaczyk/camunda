@@ -1,7 +1,7 @@
 # Error response from daemon: Head "https://registry-1.docker.io/v2/camunda/web-modeler-websockets/manifests/8.7.0": unauthorized: incorrect username or password
 
 Jeśli otrzymasz błąd wskazujacy na nieprawidłowe poświadczenia: 
-![alt text](Images/Troubleshooting/incorrect_username_or_password.png)
+![alt text](../Images/Troubleshooting/incorrect_username_or_password.png)
 
 * sprawdź czy konto docker zostało aktywowane (mail). Jeśłi niedawno rejestrowałeś konto na "firmowego maila" - przyszedł link aktywacyjny, po kliknieciu którego trzeba wypełnić formularz i kliknać save. Dopiero po tej czynności konto jest aktywowane.
 * wywolaj logowanie do dockera z poziomu CLI: 

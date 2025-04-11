@@ -116,6 +116,6 @@ camunda-down
 
 Skutek użycia:
 
-![alt text](/Images/Camunda_powershell_done_quick.png)
+![alt text](../Images/Camunda_powershell_done_quick.png)
 
 [Powrót](../Camunda_ReadMe.md)

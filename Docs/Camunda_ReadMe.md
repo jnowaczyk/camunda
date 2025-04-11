@@ -25,7 +25,7 @@ Camuna może zostać uruchomiona na wiele sposobów. Dwa najpopularniejsze, opis
 Obydwa sposoby skutkują uruchomieniem usług pod konkretnymi adresami:
 <details>
   <summary>Przykład</summary>
-  <img src="camunda_web.png" alt="(Przykład)">
+  <img src="./Images/camunda_web.png" alt="(Przykład)">
 </details>
 
 ## Camunda - CLI Helper

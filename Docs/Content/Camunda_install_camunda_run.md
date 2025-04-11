@@ -14,15 +14,15 @@ Problem z uruchomieniem ElasticSearch (Wpis w logu: ERROR: Elasticsearch 8.17.x 
 Sugerowana wersja: JDK 23
 
 Z poziomu terminala (np. powershell) potwierdzić, że instalacja JDK przebiegła prawidłowo:  
-![alt text](Images/javaversion.png)
+![alt text](../Images/javaversion.png)
 
 Zdefiniować zmienne środowiskowe - z poziomu system variables dodać wpis dla JAVA_HOME:
  
-![alt text](java_env_variable.png)
+![alt text](../Images/java_env_variable.png)
 
 Dodatkowo - w PATH uwzględnić JAVA_HOME
 
-![alt text](java_home.png)
+![alt text](../Images/java_home.png)
 
 
 ## Camunda Run:

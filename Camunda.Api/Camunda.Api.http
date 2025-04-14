@@ -1,6 +1,31 @@
 @Camunda.Api_HostAddress = http://localhost:5238
 
-GET {{Camunda.Api_HostAddress}}/weatherforecast/
+POST  {{Camunda.Api_HostAddress}}/reservation/
+Content-Type: application/json
 Accept: application/json
 
+{
+  "items": [
+    {
+      "type": 1,
+      "quantity": 10
+    }
+  ]
+}
+
 ###
+Get  {{Camunda.Api_HostAddress}}/orders/
+
+###
+GET  https://catfact.ninja/fact
+Content-Type: application/json
+Accept: application/json
+
+{
+  "items": [
+    {
+      "type": 1,
+      "quantity": 10
+    }
+  ]
+}

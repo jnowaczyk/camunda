@@ -1,0 +1,45 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.7.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "d45327c"
+  },
+  "schemaVersion": 18,
+  "id": "rezerwacja-04fuyx7",
+  "components": [
+    {
+      "label": "Wybierz produkt",
+      "values": [
+        {
+          "label": "Klawiatura",
+          "value": "Keyboard"
+        },
+        {
+          "label": "Mysz",
+          "value": "Mouse"
+        }
+      ],
+      "type": "radio",
+      "layout": {
+        "row": "Row_1pfsgk0",
+        "columns": null
+      },
+      "id": "Field_0l387kb",
+      "key": "productType"
+    },
+    {
+      "label": "Ilość",
+      "type": "number",
+      "layout": {
+        "row": "Row_0c7p3aw",
+        "columns": null
+      },
+      "id": "Field_0jaac27",
+      "key": "Qty",
+      "defaultValue": 1,
+      "increment": "1"
+    }
+  ],
+  "type": "default"
+}

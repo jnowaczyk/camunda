@@ -1,0 +1,33 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.7.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "d45327c"
+  },
+  "schemaVersion": 18,
+  "id": "Form_1xe0q6k",
+  "components": [
+    {
+      "label": "Potwierdź zamówienie",
+      "values": [
+        {
+          "label": "Tak",
+          "value": "Yes"
+        },
+        {
+          "label": "Nie",
+          "value": "No"
+        }
+      ],
+      "type": "radio",
+      "layout": {
+        "row": "Row_1q1qe5m",
+        "columns": null
+      },
+      "id": "Field_0y4tqsh",
+      "key": "confirm"
+    }
+  ],
+  "type": "default"
+}
